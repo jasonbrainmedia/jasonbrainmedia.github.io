@@ -60,13 +60,13 @@ h3 {
   }
 }
 
-.card a {
+.card-link {
   color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
   text-decoration: underline;
 }
-.card a:hover {
+.card-link:hover {
   --bs-link-color-rgb: var(--bs-link-hover-color-rgb);
-}
+}*/
 
 
 .gallery-img {
